@@ -1,4 +1,8 @@
+[kacmal.pl/restaurakcja](https://kacmal.pl/restaurakcja)
 
+default@localhost / phplaravel
+
+<hr>
 
 1. [ Potrzebne materiały ](#Potrzebne)
 1. [ Widok złożenia ](#Widok)
